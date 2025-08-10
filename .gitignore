@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+.next/
+**/node_modules/
+**/.next/
+*.log
+
+# env
+.env
+.env.*
+!.env.example
+
+# OS/Editor
+.DS_Store
+.vscode/
