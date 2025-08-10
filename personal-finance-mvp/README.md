@@ -14,7 +14,7 @@ Production-ish starter you can deploy same-day. Local uses SQLite via Prisma for
 npm install
 
 # 2) Configure env
-cp .env.local.example .env.local
+cp .env.example .env.local  # see .env.local.example for reference
 
 # 3) Create DB & seed demo data
 npm run db:migrate
