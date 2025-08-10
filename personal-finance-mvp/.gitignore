@@ -6,3 +6,4 @@ node_modules/
 coverage/
 dist/
 prisma/dev.db
+# Local ignores for Next.js app
