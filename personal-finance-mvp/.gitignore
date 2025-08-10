@@ -1,0 +1,8 @@
+]633;E;{   echo "# Local ignores for Next.js app"\x3b   echo ".env"\x3b   echo ".env.*"\x3b   echo ".next/"\x3b   echo "node_modules/"\x3b   echo "coverage/"\x3b   echo "dist/"\x3b   echo "prisma/dev.db"\x3b } >> .gitignore;1029b79f-5abe-458d-a8f5-1506c9086678]633;C# Local ignores for Next.js app
+.env
+.env.*
+.next/
+node_modules/
+coverage/
+dist/
+prisma/dev.db
